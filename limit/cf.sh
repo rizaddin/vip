@@ -5,7 +5,7 @@ apt install jq curl -y
 DOMAIN=klmpk-tunneling.my.id
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c5)
 dns=${sub}.klmpk-tunneling.my.id
-CF_ID=santremuhammadfaruk@gmail.com
+CF_ID=sariphidayatuloh366@gmail.com
 CF_KEY=0d626234700bad388d6d07b49c42901445d1c
 set -euo pipefail
 IP=$(wget -qO- icanhazip.com);
