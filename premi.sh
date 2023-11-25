@@ -981,7 +981,6 @@ clear
     menu
     profile
     enable_services
-    restart_system
 }
 instal
 echo ""
